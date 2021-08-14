@@ -16,13 +16,13 @@ Objective :\
 
 ## Experiemnt-3 : FIR Filter Design Using MATLAB
 Objective : \
-• To learn how to design FIR (finite impulse response) filters with the given frequency specifications\
+• To learn how to design FIR (finite impulse response) filters with the given frequency specifications
 > a.	Fourier Transform Method and Window Method\
   b.	Optimal Design Method
 
 ## Experiemnt-4 : IIR Filter Design Using MATLAB
 Objective :   \
-• To learn how to design IIR (infinite impulse response) filters with the given frequency specifications\
+• To learn how to design IIR (infinite impulse response) filters with the given frequency specifications
 > a.	Bilinear transformation method\
   b.	Pole-zero placement method
 
